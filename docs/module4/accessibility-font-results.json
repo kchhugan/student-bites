@@ -1,0 +1,86 @@
+{
+  "h1": [
+    {
+      "familyName": "Tinos",
+      "postScriptName": "Tinos",
+      "isCustomFont": false,
+      "glyphCount": 27
+    }
+  ],
+  ".hero__content p": [
+    {
+      "familyName": "Arimo",
+      "postScriptName": "Arimo",
+      "isCustomFont": false,
+      "glyphCount": 87
+    }
+  ],
+  "accessibility_tree": "- main:\n  - text: Good food, smaller budgets\n  - heading \"Easy meals for busy students\" [level=1]\n  - paragraph: Discover quick, affordable recipes that are easy to make, even if you're new to cooking.\n  - link \"Browse recipes\":\n    - /url: \"#featured\"\n  - text: A little inspiration\n  - heading \"Featured recipes\" [level=2]\n  - paragraph: Explore simple meal ideas. Full recipes and prices will be added after verification.\n  - article:\n    - link \"Avocado toast with a fried egg and fruit Avocado toast & egg Recipe preview \u00b7 Time and cost to be confirmed\":\n      - /url: breakfast.html\n      - img \"Avocado toast with a fried egg and fruit\"\n      - heading \"Avocado toast & egg\" [level=3]\n      - paragraph: Recipe preview \u00b7 Time and cost to be confirmed\n  - article:\n    - link \"Rice bowl with grilled chicken and roasted vegetables Chicken & vegetable rice bowl Recipe preview \u00b7 Time and cost to be confirmed\":\n      - /url: lunch.html\n      - img \"Rice bowl with grilled chicken and roasted vegetables\"\n      - heading \"Chicken & vegetable rice bowl\" [level=3]\n      - paragraph: Recipe preview \u00b7 Time and cost to be confirmed\n  - article:\n    - link \"Yogurt with granola, banana, strawberries and blueberries Yogurt & granola bowl Recipe preview \u00b7 Time and cost to be confirmed\":\n      - /url: snack.html\n      - img \"Yogurt with granola, banana, strawberries and blueberries\"\n      - heading \"Yogurt & granola bowl\" [level=3]\n      - paragraph: Recipe preview \u00b7 Time and cost to be confirmed\n  - link \"Explore one-pan veggie pasta\":\n    - /url: recipe.html\n  - link \"Budget cooking tips\":\n    - /url: tips.html",
+  "keyboard": [
+    {
+      "text": "Skip to main content",
+      "tag": "A",
+      "outline": "solid"
+    },
+    {
+      "text": "Student Bites",
+      "tag": "A",
+      "outline": "solid"
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "outline": "solid"
+    },
+    {
+      "text": "Breakfast",
+      "tag": "A",
+      "outline": "solid"
+    },
+    {
+      "text": "Lunch & Dinner",
+      "tag": "A",
+      "outline": "solid"
+    },
+    {
+      "text": "Snacks & Desserts",
+      "tag": "A",
+      "outline": "solid"
+    },
+    {
+      "text": "Tips",
+      "tag": "A",
+      "outline": "solid"
+    },
+    {
+      "text": "Browse recipes \u2197",
+      "tag": "A",
+      "outline": "solid"
+    },
+    {
+      "text": "Avocado toast & eggRecipe preview \u00b7 Time and cost to be confirmed",
+      "tag": "A",
+      "outline": "solid"
+    },
+    {
+      "text": "Chicken & vegetable rice bowlRecipe preview \u00b7 Time and cost to be confirmed",
+      "tag": "A",
+      "outline": "solid"
+    },
+    {
+      "text": "Yogurt & granola bowlRecipe preview \u00b7 Time and cost to be confirmed",
+      "tag": "A",
+      "outline": "solid"
+    },
+    {
+      "text": "Explore one-pan veggie pasta",
+      "tag": "A",
+      "outline": "solid"
+    }
+  ],
+  "forcedFallback": {
+    "overflow": 0,
+    "heading": "\"Missing heading font\", serif",
+    "body": "\"Missing body font\", sans-serif"
+  }
+}

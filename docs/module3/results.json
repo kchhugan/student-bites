@@ -1,0 +1,234 @@
+[
+  {
+    "width": 320,
+    "documentWidth": 320,
+    "bodyWidth": 320,
+    "grid": "288px",
+    "tipsGrid": null,
+    "recipeBody": null,
+    "statsGrid": null,
+    "status": "complete",
+    "page": "index.html",
+    "requested_width": 320,
+    "overflow": false
+  },
+  {
+    "width": 402,
+    "documentWidth": 402,
+    "bodyWidth": 402,
+    "grid": "370px",
+    "tipsGrid": null,
+    "recipeBody": null,
+    "statsGrid": null,
+    "status": "complete",
+    "page": "index.html",
+    "requested_width": 402,
+    "overflow": false
+  },
+  {
+    "keyboard_focus": {
+      "element": "Skip to main content",
+      "outline": "solid",
+      "rect": 176.96875
+    }
+  },
+  {
+    "width": 744,
+    "documentWidth": 744,
+    "bodyWidth": 744,
+    "grid": "328px 328px",
+    "tipsGrid": null,
+    "recipeBody": null,
+    "statsGrid": null,
+    "status": "complete",
+    "page": "index.html",
+    "requested_width": 744,
+    "overflow": false
+  },
+  {
+    "reduced_motion": {
+      "scroll": "auto",
+      "activeMotion": "0s"
+    }
+  },
+  {
+    "contrast": {
+      "border": "#5d645b"
+    }
+  },
+  {
+    "width": 1440,
+    "documentWidth": 1440,
+    "bodyWidth": 1440,
+    "grid": "368px 368px 368px",
+    "tipsGrid": null,
+    "recipeBody": null,
+    "statsGrid": null,
+    "status": "complete",
+    "page": "index.html",
+    "requested_width": 1440,
+    "overflow": false
+  },
+  {
+    "width": 720,
+    "documentWidth": 720,
+    "bodyWidth": 720,
+    "grid": "316px 316px",
+    "tipsGrid": null,
+    "recipeBody": null,
+    "statsGrid": null,
+    "status": "complete",
+    "page": "index.html",
+    "requested_width": 720,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "documentWidth": 320,
+    "bodyWidth": 320,
+    "grid": null,
+    "tipsGrid": null,
+    "recipeBody": "288px",
+    "statsGrid": "288px",
+    "status": "complete",
+    "page": "recipe.html",
+    "requested_width": 320,
+    "overflow": false
+  },
+  {
+    "width": 402,
+    "documentWidth": 402,
+    "bodyWidth": 402,
+    "grid": null,
+    "tipsGrid": null,
+    "recipeBody": "370px",
+    "statsGrid": "181px 181px",
+    "status": "complete",
+    "page": "recipe.html",
+    "requested_width": 402,
+    "overflow": false
+  },
+  {
+    "width": 744,
+    "documentWidth": 744,
+    "bodyWidth": 744,
+    "grid": null,
+    "tipsGrid": null,
+    "recipeBody": "688px",
+    "statsGrid": "213.328px 213.328px 213.328px",
+    "status": "complete",
+    "page": "recipe.html",
+    "requested_width": 744,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "documentWidth": 1440,
+    "bodyWidth": 1440,
+    "grid": null,
+    "tipsGrid": null,
+    "recipeBody": "568px 568px 0px",
+    "statsGrid": "188.578px 188.578px 188.578px",
+    "status": "complete",
+    "page": "recipe.html",
+    "requested_width": 1440,
+    "overflow": false
+  },
+  {
+    "print": {
+      "header": "none",
+      "panels": "block",
+      "bg": "rgb(255, 255, 255)"
+    }
+  },
+  {
+    "width": 720,
+    "documentWidth": 720,
+    "bodyWidth": 720,
+    "grid": null,
+    "tipsGrid": null,
+    "recipeBody": "664px",
+    "statsGrid": "205.328px 205.328px 205.328px",
+    "status": "complete",
+    "page": "recipe.html",
+    "requested_width": 720,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "documentWidth": 320,
+    "bodyWidth": 320,
+    "grid": null,
+    "tipsGrid": "288px",
+    "recipeBody": null,
+    "statsGrid": null,
+    "status": "complete",
+    "page": "tips.html",
+    "requested_width": 320,
+    "overflow": false
+  },
+  {
+    "width": 402,
+    "documentWidth": 402,
+    "bodyWidth": 402,
+    "grid": null,
+    "tipsGrid": "370px",
+    "recipeBody": null,
+    "statsGrid": null,
+    "status": "complete",
+    "page": "tips.html",
+    "requested_width": 402,
+    "overflow": false
+  },
+  {
+    "width": 744,
+    "documentWidth": 744,
+    "bodyWidth": 744,
+    "grid": null,
+    "tipsGrid": "332px 332px",
+    "recipeBody": null,
+    "statsGrid": null,
+    "status": "complete",
+    "page": "tips.html",
+    "requested_width": 744,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "documentWidth": 1440,
+    "bodyWidth": 1440,
+    "grid": null,
+    "tipsGrid": "373.328px 373.328px 373.344px 0px",
+    "recipeBody": null,
+    "statsGrid": null,
+    "status": "complete",
+    "page": "tips.html",
+    "requested_width": 1440,
+    "overflow": false
+  },
+  {
+    "width": 720,
+    "documentWidth": 720,
+    "bodyWidth": 720,
+    "grid": null,
+    "tipsGrid": "320px 320px",
+    "recipeBody": null,
+    "statsGrid": null,
+    "status": "complete",
+    "page": "tips.html",
+    "requested_width": 720,
+    "overflow": false
+  },
+  {
+    "summary_container_width": 250,
+    "stats_columns": "250px"
+  },
+  {
+    "summary_container_width": 390,
+    "stats_columns": "183px 183px"
+  },
+  {
+    "summary_container_width": 560,
+    "stats_columns": "170.656px 170.672px 170.672px"
+  }
+]

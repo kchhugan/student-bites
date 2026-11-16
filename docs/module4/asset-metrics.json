@@ -1,0 +1,147 @@
+[
+  {
+    "name": "hero",
+    "original": [
+      1672,
+      941,
+      2253303
+    ],
+    "variants": [
+      {
+        "file": "hero-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 24142
+      },
+      {
+        "file": "hero-768.webp",
+        "width": 768,
+        "height": 432,
+        "bytes": 47524
+      },
+      {
+        "file": "hero-1200.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 90676
+      }
+    ],
+    "original_sha256": "32df7844f6ee416810c9186cd659622caa49a1479aa643eaeb076a6e41770087"
+  },
+  {
+    "name": "breakfast-avocado-toast",
+    "original": [
+      1536,
+      1024,
+      2644638
+    ],
+    "variants": [
+      {
+        "file": "breakfast-avocado-toast-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 31842
+      },
+      {
+        "file": "breakfast-avocado-toast-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 69854
+      },
+      {
+        "file": "breakfast-avocado-toast-1200.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 140910
+      }
+    ],
+    "original_sha256": "8f1f57842a50b3f47d6969c4c9c6c7554117613d8148b4139505c14817ad633d"
+  },
+  {
+    "name": "lunch-chicken-rice",
+    "original": [
+      1536,
+      1024,
+      2748988
+    ],
+    "variants": [
+      {
+        "file": "lunch-chicken-rice-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 36008
+      },
+      {
+        "file": "lunch-chicken-rice-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 80946
+      },
+      {
+        "file": "lunch-chicken-rice-1200.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 161900
+      }
+    ],
+    "original_sha256": "73d35c0e5e00392cf551963710dad1c56d4d2b2ed1d89c032876476dee1e9df0"
+  },
+  {
+    "name": "snack-yogurt-granola",
+    "original": [
+      1536,
+      1024,
+      2599838
+    ],
+    "variants": [
+      {
+        "file": "snack-yogurt-granola-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 28040
+      },
+      {
+        "file": "snack-yogurt-granola-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 62936
+      },
+      {
+        "file": "snack-yogurt-granola-1200.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 127398
+      }
+    ],
+    "original_sha256": "e8fc6c79a9c89946356e746b07109086f103fa81bd2fb5d9328d4d2d67f91afe"
+  },
+  {
+    "name": "one-pan-veggie-pasta",
+    "original": [
+      1536,
+      1024,
+      2755221
+    ],
+    "variants": [
+      {
+        "file": "one-pan-veggie-pasta-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 34454
+      },
+      {
+        "file": "one-pan-veggie-pasta-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 79860
+      },
+      {
+        "file": "one-pan-veggie-pasta-1200.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 168788
+      }
+    ],
+    "original_sha256": "3bfd0c62c4fcacfe242800d43efac27a8cb015ada595b881f99847a18102eaff"
+  }
+]

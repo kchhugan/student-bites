@@ -1,0 +1,80 @@
+[
+  {
+    "page": "index.html",
+    "before": [
+      1440,
+      1
+    ],
+    "after": {
+      "width": 720,
+      "dpr": 2,
+      "overflow": -8,
+      "images": true
+    }
+  },
+  {
+    "page": "recipe.html",
+    "before": [
+      1440,
+      1
+    ],
+    "after": {
+      "width": 720,
+      "dpr": 2,
+      "overflow": -8,
+      "images": true
+    }
+  },
+  {
+    "page": "tips.html",
+    "before": [
+      1440,
+      1
+    ],
+    "after": {
+      "width": 720,
+      "dpr": 2,
+      "overflow": -8,
+      "images": true
+    }
+  },
+  {
+    "page": "breakfast.html",
+    "before": [
+      1440,
+      1
+    ],
+    "after": {
+      "width": 720,
+      "dpr": 2,
+      "overflow": -8,
+      "images": true
+    }
+  },
+  {
+    "page": "lunch.html",
+    "before": [
+      1440,
+      1
+    ],
+    "after": {
+      "width": 720,
+      "dpr": 2,
+      "overflow": -8,
+      "images": true
+    }
+  },
+  {
+    "page": "snack.html",
+    "before": [
+      1440,
+      1
+    ],
+    "after": {
+      "width": 720,
+      "dpr": 2,
+      "overflow": -8,
+      "images": true
+    }
+  }
+]

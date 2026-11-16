@@ -1,0 +1,645 @@
+{
+  "viewports": [
+    {
+      "width": 320,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/hero-480.webp",
+          "alt": "",
+          "w": 286,
+          "h": 178,
+          "natural": 288
+        },
+        {
+          "src": "assets/breakfast-avocado-toast-480.webp",
+          "alt": "Avocado toast with a fried egg and fruit",
+          "w": 286,
+          "h": 161,
+          "natural": 288
+        },
+        {
+          "src": "assets/lunch-chicken-rice-480.webp",
+          "alt": "Rice bowl with grilled chicken and roasted vegetables",
+          "w": 286,
+          "h": 161,
+          "natural": 288
+        },
+        {
+          "src": "assets/snack-yogurt-granola-480.webp",
+          "alt": "Yogurt with granola, banana, strawberries and blueberries",
+          "w": 286,
+          "h": 161,
+          "natural": 288
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "index.html"
+    },
+    {
+      "width": 320,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/one-pan-veggie-pasta-480.webp",
+          "alt": "Penne with tomatoes, bell peppers, zucchini and herbs",
+          "w": 286,
+          "h": 178,
+          "natural": 288
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "recipe.html"
+    },
+    {
+      "width": 320,
+      "overflow": 0,
+      "images": [],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "tips.html"
+    },
+    {
+      "width": 320,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/breakfast-avocado-toast-480.webp",
+          "alt": "Avocado toast with a fried egg and fruit",
+          "w": 286,
+          "h": 178,
+          "natural": 288
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "breakfast.html"
+    },
+    {
+      "width": 320,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/lunch-chicken-rice-480.webp",
+          "alt": "Rice bowl with grilled chicken and roasted vegetables",
+          "w": 286,
+          "h": 178,
+          "natural": 288
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "lunch.html"
+    },
+    {
+      "width": 320,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/snack-yogurt-granola-480.webp",
+          "alt": "Yogurt with granola, banana, strawberries and blueberries",
+          "w": 286,
+          "h": 178,
+          "natural": 288
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "snack.html"
+    },
+    {
+      "width": 402,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/hero-480.webp",
+          "alt": "",
+          "w": 368,
+          "h": 229,
+          "natural": 370
+        },
+        {
+          "src": "assets/breakfast-avocado-toast-480.webp",
+          "alt": "Avocado toast with a fried egg and fruit",
+          "w": 368,
+          "h": 207,
+          "natural": 370
+        },
+        {
+          "src": "assets/lunch-chicken-rice-480.webp",
+          "alt": "Rice bowl with grilled chicken and roasted vegetables",
+          "w": 368,
+          "h": 207,
+          "natural": 370
+        },
+        {
+          "src": "assets/snack-yogurt-granola-480.webp",
+          "alt": "Yogurt with granola, banana, strawberries and blueberries",
+          "w": 368,
+          "h": 207,
+          "natural": 370
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "index.html"
+    },
+    {
+      "width": 402,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/one-pan-veggie-pasta-480.webp",
+          "alt": "Penne with tomatoes, bell peppers, zucchini and herbs",
+          "w": 368,
+          "h": 229,
+          "natural": 370
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "recipe.html"
+    },
+    {
+      "width": 402,
+      "overflow": 0,
+      "images": [],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "tips.html"
+    },
+    {
+      "width": 402,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/breakfast-avocado-toast-480.webp",
+          "alt": "Avocado toast with a fried egg and fruit",
+          "w": 368,
+          "h": 229,
+          "natural": 370
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "breakfast.html"
+    },
+    {
+      "width": 402,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/lunch-chicken-rice-480.webp",
+          "alt": "Rice bowl with grilled chicken and roasted vegetables",
+          "w": 368,
+          "h": 229,
+          "natural": 370
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "lunch.html"
+    },
+    {
+      "width": 402,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/snack-yogurt-granola-480.webp",
+          "alt": "Yogurt with granola, banana, strawberries and blueberries",
+          "w": 368,
+          "h": 229,
+          "natural": 370
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "snack.html"
+    },
+    {
+      "width": 744,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/hero-480.webp",
+          "alt": "",
+          "w": 323,
+          "h": 201,
+          "natural": 324
+        },
+        {
+          "src": "assets/breakfast-avocado-toast-480.webp",
+          "alt": "Avocado toast with a fried egg and fruit",
+          "w": 326,
+          "h": 183,
+          "natural": 328
+        },
+        {
+          "src": "assets/lunch-chicken-rice-480.webp",
+          "alt": "Rice bowl with grilled chicken and roasted vegetables",
+          "w": 326,
+          "h": 183,
+          "natural": 328
+        },
+        {
+          "src": "assets/snack-yogurt-granola-480.webp",
+          "alt": "Yogurt with granola, banana, strawberries and blueberries",
+          "w": 326,
+          "h": 183,
+          "natural": 328
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "index.html"
+    },
+    {
+      "width": 744,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/one-pan-veggie-pasta-768.webp",
+          "alt": "Penne with tomatoes, bell peppers, zucchini and herbs",
+          "w": 686,
+          "h": 428,
+          "natural": 688
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "recipe.html"
+    },
+    {
+      "width": 744,
+      "overflow": 0,
+      "images": [],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "tips.html"
+    },
+    {
+      "width": 744,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/breakfast-avocado-toast-768.webp",
+          "alt": "Avocado toast with a fried egg and fruit",
+          "w": 686,
+          "h": 428,
+          "natural": 688
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "breakfast.html"
+    },
+    {
+      "width": 744,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/lunch-chicken-rice-768.webp",
+          "alt": "Rice bowl with grilled chicken and roasted vegetables",
+          "w": 686,
+          "h": 428,
+          "natural": 688
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "lunch.html"
+    },
+    {
+      "width": 744,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/snack-yogurt-granola-768.webp",
+          "alt": "Yogurt with granola, banana, strawberries and blueberries",
+          "w": 686,
+          "h": 428,
+          "natural": 688
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "snack.html"
+    },
+    {
+      "width": 1440,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/hero-768.webp",
+          "alt": "",
+          "w": 480,
+          "h": 299,
+          "natural": 496
+        },
+        {
+          "src": "assets/breakfast-avocado-toast-480.webp",
+          "alt": "Avocado toast with a fried egg and fruit",
+          "w": 366,
+          "h": 206,
+          "natural": 368
+        },
+        {
+          "src": "assets/lunch-chicken-rice-480.webp",
+          "alt": "Rice bowl with grilled chicken and roasted vegetables",
+          "w": 366,
+          "h": 206,
+          "natural": 368
+        },
+        {
+          "src": "assets/snack-yogurt-granola-480.webp",
+          "alt": "Yogurt with granola, banana, strawberries and blueberries",
+          "w": 366,
+          "h": 206,
+          "natural": 368
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "index.html"
+    },
+    {
+      "width": 1440,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/one-pan-veggie-pasta-768.webp",
+          "alt": "Penne with tomatoes, bell peppers, zucchini and herbs",
+          "w": 480,
+          "h": 299,
+          "natural": 496
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "recipe.html"
+    },
+    {
+      "width": 1440,
+      "overflow": 0,
+      "images": [],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "tips.html"
+    },
+    {
+      "width": 1440,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/breakfast-avocado-toast-768.webp",
+          "alt": "Avocado toast with a fried egg and fruit",
+          "w": 480,
+          "h": 299,
+          "natural": 496
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "breakfast.html"
+    },
+    {
+      "width": 1440,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/lunch-chicken-rice-768.webp",
+          "alt": "Rice bowl with grilled chicken and roasted vegetables",
+          "w": 480,
+          "h": 299,
+          "natural": 496
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "lunch.html"
+    },
+    {
+      "width": 1440,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/snack-yogurt-granola-768.webp",
+          "alt": "Yogurt with granola, banana, strawberries and blueberries",
+          "w": 480,
+          "h": 299,
+          "natural": 496
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "snack.html"
+    },
+    {
+      "width": 720,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/hero-480.webp",
+          "alt": "",
+          "w": 312,
+          "h": 194,
+          "natural": 312
+        },
+        {
+          "src": "assets/breakfast-avocado-toast-480.webp",
+          "alt": "Avocado toast with a fried egg and fruit",
+          "w": 314,
+          "h": 177,
+          "natural": 316
+        },
+        {
+          "src": "assets/lunch-chicken-rice-480.webp",
+          "alt": "Rice bowl with grilled chicken and roasted vegetables",
+          "w": 314,
+          "h": 177,
+          "natural": 316
+        },
+        {
+          "src": "assets/snack-yogurt-granola-480.webp",
+          "alt": "Yogurt with granola, banana, strawberries and blueberries",
+          "w": 314,
+          "h": 177,
+          "natural": 316
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "index.html"
+    },
+    {
+      "width": 720,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/one-pan-veggie-pasta-768.webp",
+          "alt": "Penne with tomatoes, bell peppers, zucchini and herbs",
+          "w": 662,
+          "h": 413,
+          "natural": 664
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "recipe.html"
+    },
+    {
+      "width": 720,
+      "overflow": 0,
+      "images": [],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "tips.html"
+    },
+    {
+      "width": 720,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/breakfast-avocado-toast-768.webp",
+          "alt": "Avocado toast with a fried egg and fruit",
+          "w": 662,
+          "h": 413,
+          "natural": 664
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "breakfast.html"
+    },
+    {
+      "width": 720,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/lunch-chicken-rice-768.webp",
+          "alt": "Rice bowl with grilled chicken and roasted vegetables",
+          "w": 662,
+          "h": 413,
+          "natural": 664
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "lunch.html"
+    },
+    {
+      "width": 720,
+      "overflow": 0,
+      "images": [
+        {
+          "src": "assets/snack-yogurt-granola-768.webp",
+          "alt": "Yogurt with granola, banana, strawberries and blueberries",
+          "w": 662,
+          "h": 413,
+          "natural": 664
+        }
+      ],
+      "shiftSum": 0,
+      "font": "\"Trebuchet MS\", Arial, sans-serif",
+      "heading": "Georgia, \"Times New Roman\", serif",
+      "page": "snack.html"
+    }
+  ],
+  "delayed_images": {
+    "before": [
+      [
+        518,
+        231
+      ],
+      [
+        1014,
+        207
+      ],
+      [
+        1221,
+        87
+      ],
+      [
+        1342,
+        207
+      ],
+      [
+        1549,
+        87
+      ],
+      [
+        1670,
+        207
+      ],
+      [
+        1877,
+        87
+      ]
+    ],
+    "after": [
+      [
+        518,
+        231
+      ],
+      [
+        1014,
+        207
+      ],
+      [
+        1221,
+        87
+      ],
+      [
+        1342,
+        207
+      ],
+      [
+        1549,
+        87
+      ],
+      [
+        1670,
+        207
+      ],
+      [
+        1877,
+        87
+      ]
+    ],
+    "shiftSum": 0,
+    "fontsDownloaded": 0,
+    "focus": "u-skip-link",
+    "motion": "auto"
+  }
+}
