@@ -1,0 +1,4 @@
+STATIC [('index.html', []), ('recipe.html', []), ('tips.html', []), ('breakfast.html', []), ('lunch.html', []), ('snack.html', [])]
+BROWSER FAILS []
+SAMPLE {'home_first_tab': 'Skip to main content', 'recipe_breadcrumb': 'All recipes / One-Pan Veggie Pasta', 'recipe_breadcrumb_current': 'One-Pan Veggie Pasta', 'tips_keyboard': {'first_tab_text': 'Skip to main content', 'skip_enter_focus_target': 'main', 'summary_focus_outline_style': 'solid', 'enter_opens': True, 'enter_closes': True, 'tab_after_details': 'SUMMARY'}}
+SCREENSHOTS ['index-402.png', 'index-744.png', 'index-1440.png', 'index-zoom-equivalent-720.png', 'index-narrow-320.png', 'recipe-402.png', 'recipe-744.png', 'recipe-1440.png', 'recipe-zoom-equivalent-720.png', 'recipe-narrow-320.png', 'tips-402.png', 'tips-744.png', 'tips-1440.png']

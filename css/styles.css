@@ -243,3 +243,25 @@
   .recipe-card__link:focus-visible { outline-offset: -4px; }
 }
 @media print { @layer components { .hero__visual, .recipe-photo { display: none; } } }
+
+/* Module 5 inclusive-quality remediation (kept inside existing layer architecture). */
+@layer base {
+  /* Ensure anchor destinations are visible and don't force an outline around main. */
+  #main:focus { outline: none; }
+  /* Reasonable readable text measure survives text-spacing overrides. */
+  h1, h2, h3 { text-wrap: pretty; }
+}
+@layer components {
+  /* Navigation links offer an approximately 44px minimum pointer target. */
+  .site-nav a { min-block-size: 2.75rem; display: flex; align-items: center; }
+  .breadcrumb { font-size: .91rem; line-height: 1.5; max-inline-size: 100%; overflow-wrap: anywhere; }
+  .breadcrumb a { text-decoration: underline; }
+  .breadcrumb [aria-current='page'] { color: var(--color-secondary-text); }
+  .tip-disclosure summary { min-block-size: 2.75rem; padding-block: .4rem; }
+  /* Avoid a visually ambiguous, hard-to-see summary focus indicator. */
+  .tip-disclosure summary:focus-visible { outline: 3px solid var(--color-focus); outline-offset: 3px; }
+}
+@layer states {
+  .breadcrumb a:hover { text-decoration-thickness: 2px; }
+  a:focus-visible, summary:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+}

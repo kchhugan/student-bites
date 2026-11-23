@@ -1,0 +1,101 @@
+{
+  "page": "tips.html",
+  "method": "Chromium CDP Accessibility.getFullAXTree; browser accessibility-tree inspection; not a spoken screen-reader test",
+  "sample": [
+    {
+      "role": "link",
+      "name": "Skip to main content",
+      "ignored": false
+    },
+    {
+      "role": "main",
+      "name": "",
+      "ignored": false
+    },
+    {
+      "role": "link",
+      "name": "STUDENT BITES",
+      "ignored": false
+    },
+    {
+      "role": "navigation",
+      "name": "Primary navigation",
+      "ignored": false
+    },
+    {
+      "role": "navigation",
+      "name": "Footer navigation",
+      "ignored": false
+    },
+    {
+      "role": "heading",
+      "name": "Budget cooking tips",
+      "ignored": false
+    },
+    {
+      "role": "heading",
+      "name": "Explore the basics",
+      "ignored": false
+    },
+    {
+      "role": "heading",
+      "name": "About Student Bites",
+      "ignored": false
+    },
+    {
+      "role": "heading",
+      "name": "Contact",
+      "ignored": false
+    },
+    {
+      "role": "link",
+      "name": "About",
+      "ignored": false
+    },
+    {
+      "role": "link",
+      "name": "Contact",
+      "ignored": false
+    },
+    {
+      "role": "DisclosureTriangle",
+      "name": "Grocery shopping",
+      "ignored": false
+    },
+    {
+      "role": "DisclosureTriangle",
+      "name": "Meal planning",
+      "ignored": false
+    },
+    {
+      "role": "DisclosureTriangle",
+      "name": "Food storage",
+      "ignored": false
+    },
+    {
+      "role": "link",
+      "name": "HOME",
+      "ignored": false
+    },
+    {
+      "role": "link",
+      "name": "BREAKFAST",
+      "ignored": false
+    },
+    {
+      "role": "link",
+      "name": "LUNCH & DINNER",
+      "ignored": false
+    },
+    {
+      "role": "link",
+      "name": "SNACKS & DESSERTS",
+      "ignored": false
+    },
+    {
+      "role": "link",
+      "name": "TIPS",
+      "ignored": false
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Student Bites — Module 5 Accessibility Conformance and Inclusive Quality Build
+
+Repository: https://github.com/kchhugan/student-bites
+
+This ZIP contains the updated Module 5 site. Update the repository with these files before submitting a repository link as evidence of the Module 5 build.
+
+Published preview: Not available / not verified.

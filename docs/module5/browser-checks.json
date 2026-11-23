@@ -1,0 +1,284 @@
+{
+  "checks": [
+    {
+      "page": "index.html",
+      "width": 320,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 320
+    },
+    {
+      "page": "index.html",
+      "width": 402,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 402
+    },
+    {
+      "page": "index.html",
+      "width": 744,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 744
+    },
+    {
+      "page": "index.html",
+      "width": 1440,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 1440
+    },
+    {
+      "page": "index.html",
+      "test": "zoom-equivalent-720",
+      "width": 720,
+      "scrollwidth": 720,
+      "horizontal_overflow": false
+    },
+    {
+      "page": "index.html",
+      "test": "narrow-320",
+      "width": 320,
+      "scrollwidth": 320,
+      "horizontal_overflow": false
+    },
+    {
+      "page": "recipe.html",
+      "width": 320,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 320
+    },
+    {
+      "page": "recipe.html",
+      "width": 402,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 402
+    },
+    {
+      "page": "recipe.html",
+      "width": 744,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 744
+    },
+    {
+      "page": "recipe.html",
+      "width": 1440,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 1440
+    },
+    {
+      "page": "recipe.html",
+      "test": "zoom-equivalent-720",
+      "width": 720,
+      "scrollwidth": 720,
+      "horizontal_overflow": false
+    },
+    {
+      "page": "recipe.html",
+      "test": "narrow-320",
+      "width": 320,
+      "scrollwidth": 320,
+      "horizontal_overflow": false
+    },
+    {
+      "page": "tips.html",
+      "width": 320,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 320
+    },
+    {
+      "page": "tips.html",
+      "width": 402,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 402
+    },
+    {
+      "page": "tips.html",
+      "width": 744,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 744
+    },
+    {
+      "page": "tips.html",
+      "width": 1440,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 1440
+    },
+    {
+      "page": "tips.html",
+      "test": "zoom-equivalent-720",
+      "width": 720,
+      "scrollwidth": 720,
+      "horizontal_overflow": false
+    },
+    {
+      "page": "tips.html",
+      "test": "narrow-320",
+      "width": 320,
+      "scrollwidth": 320,
+      "horizontal_overflow": false
+    },
+    {
+      "page": "breakfast.html",
+      "width": 320,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 320
+    },
+    {
+      "page": "breakfast.html",
+      "width": 402,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 402
+    },
+    {
+      "page": "breakfast.html",
+      "width": 744,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 744
+    },
+    {
+      "page": "breakfast.html",
+      "width": 1440,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 1440
+    },
+    {
+      "page": "breakfast.html",
+      "test": "zoom-equivalent-720",
+      "width": 720,
+      "scrollwidth": 720,
+      "horizontal_overflow": false
+    },
+    {
+      "page": "breakfast.html",
+      "test": "narrow-320",
+      "width": 320,
+      "scrollwidth": 320,
+      "horizontal_overflow": false
+    },
+    {
+      "page": "lunch.html",
+      "width": 320,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 320
+    },
+    {
+      "page": "lunch.html",
+      "width": 402,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 402
+    },
+    {
+      "page": "lunch.html",
+      "width": 744,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 744
+    },
+    {
+      "page": "lunch.html",
+      "width": 1440,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 1440
+    },
+    {
+      "page": "lunch.html",
+      "test": "zoom-equivalent-720",
+      "width": 720,
+      "scrollwidth": 720,
+      "horizontal_overflow": false
+    },
+    {
+      "page": "lunch.html",
+      "test": "narrow-320",
+      "width": 320,
+      "scrollwidth": 320,
+      "horizontal_overflow": false
+    },
+    {
+      "page": "snack.html",
+      "width": 320,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 320
+    },
+    {
+      "page": "snack.html",
+      "width": 402,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 402
+    },
+    {
+      "page": "snack.html",
+      "width": 744,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 744
+    },
+    {
+      "page": "snack.html",
+      "width": 1440,
+      "horizontal_overflow": false,
+      "all_images_decoded": true,
+      "body_scrollwidth": 1440
+    },
+    {
+      "page": "snack.html",
+      "test": "zoom-equivalent-720",
+      "width": 720,
+      "scrollwidth": 720,
+      "horizontal_overflow": false
+    },
+    {
+      "page": "snack.html",
+      "test": "narrow-320",
+      "width": 320,
+      "scrollwidth": 320,
+      "horizontal_overflow": false
+    }
+  ],
+  "samples": {
+    "home_first_tab": "Skip to main content",
+    "recipe_breadcrumb": "All recipes / One-Pan Veggie Pasta",
+    "recipe_breadcrumb_current": "One-Pan Veggie Pasta",
+    "tips_keyboard": {
+      "first_tab_text": "Skip to main content",
+      "skip_enter_focus_target": "main",
+      "summary_focus_outline_style": "solid",
+      "enter_opens": true,
+      "enter_closes": true,
+      "tab_after_details": "SUMMARY"
+    }
+  },
+  "screenshots": [
+    "index-402.png",
+    "index-744.png",
+    "index-1440.png",
+    "index-zoom-equivalent-720.png",
+    "index-narrow-320.png",
+    "recipe-402.png",
+    "recipe-744.png",
+    "recipe-1440.png",
+    "recipe-zoom-equivalent-720.png",
+    "recipe-narrow-320.png",
+    "tips-402.png",
+    "tips-744.png",
+    "tips-1440.png"
+  ]
+}

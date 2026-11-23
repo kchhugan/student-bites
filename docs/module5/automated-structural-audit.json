@@ -1,0 +1,44 @@
+[
+  {
+    "page": "index.html",
+    "automated_check": "custom BeautifulSoup structural/link/image audit",
+    "rules": "title, single h1, landmarks, image alt/dimensions/source, accessible anchor text, local references, details summary",
+    "issues": [],
+    "pass": true
+  },
+  {
+    "page": "recipe.html",
+    "automated_check": "custom BeautifulSoup structural/link/image audit",
+    "rules": "title, single h1, landmarks, image alt/dimensions/source, accessible anchor text, local references, details summary",
+    "issues": [],
+    "pass": true
+  },
+  {
+    "page": "tips.html",
+    "automated_check": "custom BeautifulSoup structural/link/image audit",
+    "rules": "title, single h1, landmarks, image alt/dimensions/source, accessible anchor text, local references, details summary",
+    "issues": [],
+    "pass": true
+  },
+  {
+    "page": "breakfast.html",
+    "automated_check": "custom BeautifulSoup structural/link/image audit",
+    "rules": "title, single h1, landmarks, image alt/dimensions/source, accessible anchor text, local references, details summary",
+    "issues": [],
+    "pass": true
+  },
+  {
+    "page": "lunch.html",
+    "automated_check": "custom BeautifulSoup structural/link/image audit",
+    "rules": "title, single h1, landmarks, image alt/dimensions/source, accessible anchor text, local references, details summary",
+    "issues": [],
+    "pass": true
+  },
+  {
+    "page": "snack.html",
+    "automated_check": "custom BeautifulSoup structural/link/image audit",
+    "rules": "title, single h1, landmarks, image alt/dimensions/source, accessible anchor text, local references, details summary",
+    "issues": [],
+    "pass": true
+  }
+]

@@ -1,24 +1,29 @@
-# Student Bites — Module 4 Media and Typography Optimization Build
+# Student Bites — Module 5 Accessibility Conformance and Inclusive Quality Build
 
-This package extends the submitted Module 3 responsive CSS system. It keeps the existing green/cream design and adds five optimized food illustrations, responsive image delivery, typography refinements and testing evidence. Each featured dish now opens its own recipe preview; the pasta preview remains linked on the homepage. Recipe instructions, costs and times remain unverified placeholders.
+This version builds on the **Module 4** media/typography package; the sage/cream palette, responsive WebP assets, CSS layers, responsive layout and recipe-preview content are retained. Module 5 adds accessibility improvements (more usable navigation targets, page-level breadcrumb orientation, distinct pasta browser title, less repetitive card link names, explicit skip destination focus support and enhanced disclosure focus), plus evidence and a seven-item remediation log.
 
-## Open locally
+## Open the project
 
-Extract this ZIP and open index.html in a browser. Use the homepage links to visit the breakfast, lunch, snack, pasta and tips pages. All assets and CSS are local. No build step or external font download is required.
+Open `index.html` from this folder in a browser. Navigation links lead to the four recipe previews and Tips; all assets are local. This capstone still contains unverified recipe instructions/costs and is **not** a complete public recipe resource.
 
-## Submission files
+## Submission evidence
 
-- index.html, recipe.html, breakfast.html, lunch.html, snack.html, tips.html: website pages
-- css/styles.css: Module 3 CSS with Module 4 media/type extensions
-- assets/: 15 WebP variants of the five source images
-- docs/module4/ASSET-INVENTORY.md: image and font provenance, alternatives, other media
-- docs/module4/OPTIMIZATION-NOTES.md: responsive delivery, art direction, typography, stability and AI disclosure
-- docs/module4/TEST-RESULTS.md: browser checks and limitations
-- docs/module4/*.json and *.png: measured assets, browser observations, actual screenshots
-- docs/module2/, docs/module3/, docs/LAYOUT-NOTES.md, studentbitesnotes3.md: prior module records, retained for continuity
+- `docs/module5/CONFORMANCE-SUMMARY.md`: scope, observed behavior, contrasts, media decisions and limitations.
+- `docs/module5/REMEDIATION-LOG.md`: seven findings with evidence, impact, priority, fix and retest.
+- `docs/module5/TEST-PROTOCOL.md`: repeatable steps, evidence index and explicitly pending checks.
+- `docs/module5/automated-structural-audit.json`: project-specific static automated audit (not axe/Lighthouse).
+- `docs/module5/browser-checks.json`: in-memory Chromium responsive/reflow/keyboard observations.
+- `docs/module5/accessibility-tree-sample.json`: sampled Chromium accessibility tree for Tips.
+- `docs/module5/*.png`: browser screenshots; proxy zoom images clearly labeled.
+- `tools/check_accessibility.py`: repeatable static accessibility checker. Requires `beautifulsoup4`.
+- `docs/module4/`, `docs/module3/` and `docs/module2/`: earlier module evidence retained.
 
-The original PNGs are in the separate Student_Bites_Module4_Original_Images.zip archive, not in the serving folder. All five sources and the optimized files are documented in the inventory.
+## Repository and submission
 
-## Remaining review
+Repository: https://github.com/kchhugan/student-bites
 
-Chromium viewport, actual 200% zoom, image decoding, accessibility and delayed-image stability checks are documented. Actual throttled HTTP network testing, Firefox/Safari and published preview remain unverified. No repository URL is claimed; add the actual link to Canvas if using a repository. The code is ready for local review, not a claim that the final recipe content is complete.
+This ZIP is the **Module 5 revision**. The repository was created during Module 4; to make it represent this Module 5 build, upload the revised files and folders from this ZIP and commit the changes. No claim is made that the repository already contains the Module 5 revision or that a published preview exists.
+
+## Honest testing boundary
+
+Chromium testing was performed with in-memory HTML/CSS/images because local/HTTP navigation was blocked in the test environment. The current evidence includes a custom structural checker (not an axe or Lighthouse scan), programmatic browser-assisted keyboard/reflow tests, contrast calculations and accessibility-tree inspection. True browser zoom, manual whole-site keyboard navigation, axe/Lighthouse, real screen-reader speech and cross-browser checks remain for release testing. See conformance summary for details.

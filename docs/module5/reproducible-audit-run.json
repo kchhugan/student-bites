@@ -1,0 +1,32 @@
+[
+  {
+    "file": "breakfast.html",
+    "findings": [],
+    "pass": true
+  },
+  {
+    "file": "index.html",
+    "findings": [],
+    "pass": true
+  },
+  {
+    "file": "lunch.html",
+    "findings": [],
+    "pass": true
+  },
+  {
+    "file": "recipe.html",
+    "findings": [],
+    "pass": true
+  },
+  {
+    "file": "snack.html",
+    "findings": [],
+    "pass": true
+  },
+  {
+    "file": "tips.html",
+    "findings": [],
+    "pass": true
+  }
+]
